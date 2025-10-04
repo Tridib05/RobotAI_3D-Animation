@@ -23,25 +23,5 @@
 - **Three.js** – For creating and rendering advanced 3D elements.  
 - **Responsive Design** – Using Flexbox & Grid for a seamless layout on all devices.  
 
-## 📸 Screenshots  
-
-![RobotAI Preview](https://github.com/AHMAD-JX/RobotAI-3DAnimated-Website-Template/blob/350daf459a4cec9d75296783b750b5129895c1db/assets/imgs/website1.png) 
-
-## 🚀 Live Demo  
-
-🔗 **[Check out the live demo]()**  
-
-## 📂 Installation & Usage  
-
-To run the project locally, follow these steps:  
-
-```sh
-# Clone the repository
-git clone https://github.com/AHMAD-JX/RobotAI-3DAnimated-Website-Template.git
-
-# Navigate to the project folder
-cd RobotAI-3DAnimated-Website-Template
-
-# Open the index.html file in your browser
 
 # This site and some of the animation and graphics are adapted from **chaingpt**
