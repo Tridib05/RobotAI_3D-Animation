@@ -23,5 +23,3 @@
 - **Three.js** – For creating and rendering advanced 3D elements.  
 - **Responsive Design** – Using Flexbox & Grid for a seamless layout on all devices.  
 
-
-# This site and some of the animation and graphics are adapted from **chaingpt**
